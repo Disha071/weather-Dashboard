@@ -1,4 +1,5 @@
 Weather Application
+
 This project is a React application that allows users to search for cities and view current weather and forecast information using data from OpenWeatherMap and a geo-location database API.
 
 Features
@@ -14,6 +15,9 @@ CSS (for styling)
 APIs Used
 OpenWeatherMap API: Used to fetch weather data based on city coordinates.
 Geo API (RapidAPI): Used to fetch city information based on user search input.
+
+Explore the live demo: [WeatherNerd Live Demo](https://weathernerd.netlify.app/)
+
 Installation
 Clone the repository:
 
